@@ -278,7 +278,7 @@ Row | Step | Description | Completed
 2 | 3-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/chickenbrothbowl/learn-git-milestones/commit/d874ccb0b59b3147cba730483942355abebb4584)
 3 | 3-3 | Link to markdown tables docs | [Markdown tables](http://codecademy.com/resources/docs/markdown/tables)
 4 | 3-4 | What does `log` do? | It shows the project history, such as which edits where made by which editor and when.
-5 | 4-1 | 2nd Favorite emoji |
+5 | 4-1 | 2nd Favorite emoji | 🍋
 6 | 4-2 | Link to `commit #2 from Github Desktop` |
 7 | 5-1 | Full path to your working directory |
 8 | 5-2 | Link to `commit #3 from CLI` |
