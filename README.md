@@ -280,7 +280,7 @@ Row | Step | Description | Completed
 4 | 3-4 | What does `log` do? | It shows the project history, such as which edits where made by which editor and when.
 5 | 4-1 | 2nd Favorite emoji | 🍋
 6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/95d4bc965a30159ac5197442d3ecb864c0ac4cb9)
-7 | 5-1 | Full path to your working directory |
+7 | 5-1 | Full path to your working directory | /c/learn-git-milestones
 8 | 5-2 | Link to `commit #3 from CLI` |
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
