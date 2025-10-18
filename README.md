@@ -364,8 +364,8 @@ Forking, branching, pull requests
 
 Row | Step | Description | Completed
 --- | --- | --- | ---
-11 | 8-1 | What is in Owen's dev branch? | 
-12 | 9-1 | Link to your new branch on github.com | 
+11 | 8-1 | What is in Owen's dev branch? | I got Rick Rolled 😞
+12 | 9-1 | Link to your new branch on github.com | [will-changes branch](https://github.com/chickenbrothbowl/learn-git-milestones/tree/will-changes)
 13 | 10-1 | Link to your network graph | 
 14 | 11-1 | Link to the PR you made on a partner's github.com repo | 
 
