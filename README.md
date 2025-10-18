@@ -281,7 +281,7 @@ Row | Step | Description | Completed
 5 | 4-1 | 2nd Favorite emoji | 🍋
 6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/95d4bc965a30159ac5197442d3ecb864c0ac4cb9)
 7 | 5-1 | Full path to your working directory | /c/learn-git-milestones
-8 | 5-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/d874ccb0b59b3147cba730483942355abebb4584)
+8 | 5-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/7322138a87ffe7f55298d4bd1e6fa332fecff5a7)
 9 | 6-1 | Link to `first-website` github.com repo page | [first-website repo](https://github.com/chickenbrothbowl/first-website)
 10 | 7-1 | Link to `first-website` github.io "project site" | [first-website link](https://chickenbrothbowl.github.io/first-website/)
 
